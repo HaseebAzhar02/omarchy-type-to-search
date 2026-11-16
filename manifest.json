@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "io.github.haseebazhar02.type-to-search",
+  "name": "Type to search",
+  "version": "1.0.0",
+  "author": "HaseebAzhar02",
+  "license": "MIT",
+  "description": "On an empty workspace, just start typing: the Omarchy menu opens with your text already in its search line.",
+  "kinds": [
+    "service"
+  ],
+  "entryPoints": {
+    "service": "Service.qml"
+  }
+}
